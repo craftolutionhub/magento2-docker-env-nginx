@@ -28,7 +28,7 @@ array (
   'save' => 'redis',
   'redis' =>
   array (
-    'host' => '172.28.1.4',
+    'host' => '171.28.1.4',
     'port' => '6379',
     'password' => '',
     'timeout' => '2.5',
@@ -55,7 +55,7 @@ array (
  MySQL base configuration is located at docker/env file.
  
  ```
-MYSQL_HOST=172.28.1.2
+MYSQL_HOST=171.28.1.2
 MYSQL_ROOT_PASSWORD=root
 MYSQL_USER=magento
 MYSQL_PASSWORD=magento
